@@ -1,0 +1,13 @@
+discord.py
+python-dotenv
+requests
+aiohttp
+pandas
+matplotlib
+mplfinance
+feedparser
+beautifulsoup4
+pytz
+numpy
+apscheduler
+pytest

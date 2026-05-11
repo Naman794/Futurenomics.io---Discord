@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.py[cod]
+.pytest_cache/
+database/*.db
+charts/generated/*.png
+logs/*.log
+venv/
+.venv/

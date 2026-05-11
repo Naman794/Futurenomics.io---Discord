@@ -1,0 +1,17 @@
+[
+  {"term": "Bitcoin", "definition": "A decentralized digital money network and its native asset BTC.", "category": "asset", "example": "BTC can be transferred without a bank intermediary."},
+  {"term": "Ethereum", "definition": "A programmable blockchain for smart contracts and decentralized applications.", "category": "network", "example": "A lending protocol can run on Ethereum."},
+  {"term": "Wallet", "definition": "Software or hardware that manages crypto keys and helps sign transactions.", "category": "security", "example": "A hardware wallet keeps keys offline."},
+  {"term": "Private Key", "definition": "A secret value that can authorize movement of crypto assets.", "category": "security", "example": "Never share a private key or seed phrase."},
+  {"term": "Public Key", "definition": "A cryptographic value used to derive addresses and verify signatures.", "category": "security", "example": "Public information can be shared safely in normal wallet flows."},
+  {"term": "Gas Fee", "definition": "A transaction fee paid to use a blockchain network.", "category": "fees", "example": "Sending ETH requires paying gas."},
+  {"term": "DeFi", "definition": "Decentralized finance applications built with smart contracts.", "category": "applications", "example": "A DEX is a DeFi app."},
+  {"term": "DEX", "definition": "A decentralized exchange for peer-to-contract or peer-to-peer trading.", "category": "exchange", "example": "Uniswap is a DEX."},
+  {"term": "CEX", "definition": "A centralized exchange operated by a company.", "category": "exchange", "example": "Binance is a CEX."},
+  {"term": "Liquidity", "definition": "The availability of assets for trading without large price movement.", "category": "markets", "example": "Deep liquidity can reduce slippage."},
+  {"term": "Market Cap", "definition": "Asset price multiplied by circulating supply.", "category": "markets", "example": "Market cap helps compare network sizes."},
+  {"term": "Stablecoin", "definition": "A crypto asset designed to track another asset, often the US dollar.", "category": "asset", "example": "USDC aims to track USD."},
+  {"term": "Smart Contract", "definition": "Code deployed on a blockchain that executes according to its rules.", "category": "technology", "example": "A smart contract can manage a liquidity pool."},
+  {"term": "Blockchain", "definition": "A shared ledger maintained by a distributed network.", "category": "technology", "example": "Blocks contain batches of transactions."},
+  {"term": "Tokenomics", "definition": "The supply, distribution, incentives, and utility design of a token.", "category": "markets", "example": "Unlock schedules are part of tokenomics."}
+]
