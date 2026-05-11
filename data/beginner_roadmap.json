@@ -1,0 +1,9 @@
+[
+  {"stage": 1, "title": "What is money and Bitcoin?", "topics": ["Money basics", "Scarcity", "Bitcoin supply"]},
+  {"stage": 2, "title": "Blockchain basics", "topics": ["Blocks", "Consensus", "Public ledgers"]},
+  {"stage": 3, "title": "Wallets and safety", "topics": ["Seed phrases", "Private keys", "Hardware wallets"]},
+  {"stage": 4, "title": "Ethereum and smart contracts", "topics": ["ETH", "Gas", "Smart contracts"]},
+  {"stage": 5, "title": "DeFi basics", "topics": ["DEXs", "Lending", "Liquidity pools"]},
+  {"stage": 6, "title": "Market basics", "topics": ["Market cap", "Volume", "Volatility"]},
+  {"stage": 7, "title": "Risk management", "topics": ["Position sizing", "Scams", "Research habits"]}
+]
