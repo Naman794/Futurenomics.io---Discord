@@ -16,14 +16,13 @@ def _csv_set(value: str) -> Set[str]:
 
 DISCORD_BOT_TOKEN = os.getenv("DISCORD_BOT_TOKEN", "")
 BINANCE_API_KEY = os.getenv("BINANCE_API_KEY", "")
-BINANCE_SECRET_KEY = os.getenv("BINANCE_SECRET_KEY", "")
 GOOGLE_SEARCH_API_KEY = os.getenv("GOOGLE_SEARCH_API_KEY", "")
-GOOGLE_SEARCH_ENGINE_ID = os.getenv("GOOGLE_SEARCH_ENGINE_ID", "e67731cbb43cf4c97")
+GOOGLE_SEARCH_ENGINE_ID = os.getenv("GOOGLE_SEARCH_ENGINE_ID", "")
 DATABASE_PATH = os.getenv("DATABASE_PATH", str(BASE_DIR / "database" / "web3_teacher_bot.db"))
 NEWSLETTER_HOUR = int(os.getenv("NEWSLETTER_HOUR", "9"))
 NEWSLETTER_MINUTE = int(os.getenv("NEWSLETTER_MINUTE", "0"))
 TIMEZONE = os.getenv("TIMEZONE", "Asia/Kolkata")
-ADMIN_USER_IDS = _csv_set(os.getenv("ADMIN_USER_IDS", "506472665519751179, 485489178583498764"))
+ADMIN_USER_IDS = _csv_set(os.getenv("ADMIN_USER_IDS", ""))
 
 LOG_PATH = str(BASE_DIR / "logs" / "bot.log")
 DISCLAIMER = "Educational information only. Not financial advice."
@@ -37,5 +36,7 @@ COGS = [
     "cogs.newsletter_commands",
     "cogs.alert_commands",
     "cogs.market_pulse_commands",
+    "cogs.security_setup_commands",
+    "cogs.automod_events",
     "cogs.admin_commands",
 ]
