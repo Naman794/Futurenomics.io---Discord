@@ -61,7 +61,7 @@ class ServerGuardService:
                 spam_message_limit INTEGER DEFAULT 5,
                 spam_window_seconds INTEGER DEFAULT 8,
                 allowed_domains TEXT DEFAULT 'discord.com,discord.gg,github.com,x.com,twitter.com,youtube.com,youtu.be',
-                blocked_words TEXT DEFAULT '[""free airdrop claim now"",""seed phrase"",""wallet drainer"",""connect wallet now"",""guaranteed profit"",""100x guaranteed""]',
+                blocked_words TEXT DEFAULT '["free airdrop claim now","seed phrase","wallet drainer","connect wallet now","guaranteed profit","100x guaranteed"]',
                 is_active INTEGER DEFAULT 0,
                 created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
                 updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
