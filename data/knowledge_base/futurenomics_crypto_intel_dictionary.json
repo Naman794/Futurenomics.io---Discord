@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "project": "Futurenomics Crypto Intel Knowledge Base",
+    "compiled_on": "2026-06-05",
+    "intended_use": "Discord bot knowledge base / response dictionary / content memory",
+    "disclaimer": "Educational content only. Verify live data before posting. This is not financial advice."
+  },
+  "articles": [
+    {
+      "slug": "spacex-bitcoin-holdings",
+      "title": "SpaceX reveals Bitcoin holdings in IPO filing context",
+      "keywords": ["corporate treasury", "Bitcoin holdings", "IPO filing", "institutional BTC"],
+      "entities": ["SpaceX", "Bitcoin", "BTC", "IPO", "Elon Musk"],
+      "angle": "Bitcoin treasury adoption becomes stronger when large private companies disclose holdings in official filings.",
+      "bot_response": "SpaceX disclosed 18,712 BTC, with fair value around $1.29B as of Mar. 31. The key story is not celebrity crypto hype; it is Bitcoin becoming an official corporate treasury disclosure.",
+      "key_facts": ["SpaceX disclosed 18,712 BTC as of March 31, 2026.", "Fair value was cited around $1.29B as of March 31.", "Reported cost basis was $661M, implying average buy price around $35,324-$35,325/BTC."]
+    },
+    {
+      "slug": "litecoin-vs-bitcoin",
+      "title": "Litecoin vs Bitcoin: payment network vs reserve asset",
+      "keywords": ["digital silver", "digital gold", "payments", "reserve asset", "block time"],
+      "entities": ["Litecoin", "LTC", "Bitcoin", "BTC"],
+      "angle": "Litecoin may be more practical for payments, while Bitcoin is stronger as a reserve/store-of-value asset.",
+      "bot_response": "Litecoin is not cheap Bitcoin. LTC is a faster payment network with 2.5-minute blocks and 84M supply; BTC is the stronger reserve asset with deeper liquidity and institutional adoption.",
+      "key_facts": ["Litecoin launched in 2011 and is often framed as digital silver to Bitcoin’s digital gold.", "Litecoin block time is around 2.5 minutes versus Bitcoin’s roughly 10 minutes.", "Litecoin max supply is 84M LTC versus Bitcoin’s 21M BTC."]
+    },
+    {
+      "slug": "vitalik-smaller-ship-ethereum-foundation",
+      "title": "Vitalik signals a smaller Ethereum Foundation",
+      "keywords": ["smaller ship", "Ethereum governance", "ETH sales", "protocol steward", "CROPS"],
+      "entities": ["Vitalik Buterin", "Ethereum Foundation", "ETH"],
+      "angle": "Ethereum’s debate is governance and execution, not just price.",
+      "bot_response": "Vitalik’s smaller ship signal means EF may become leaner and more values-focused. The tension is decentralization versus execution: neutral steward or growth engine for ETH?",
+      "key_facts": ["Vitalik described EF moving toward a smaller ship model.", "Focus areas discussed: censorship resistance, openness, privacy, and security.", "Vitalik said EF will sell less ETH as it enters mild austerity."]
+    },
+    {
+      "slug": "bitcoin-dead-three-reasons",
+      "title": "Bitcoin is dead? Three reasons investors are questioning BTC",
+      "keywords": ["Bitcoin dead", "ETF outflows", "Strategy BTC", "Zcash", "underperformance"],
+      "entities": ["Bitcoin", "Strategy", "MicroStrategy", "MSTR", "SPDR S&P 500 ETF", "Zcash", "ZEC"],
+      "angle": "Bitcoin’s problem is not survival; it is relative performance and narrative competition.",
+      "bot_response": "Bitcoin is not dead, but it is facing pressure from weaker ETF flows, equity underperformance, and privacy-coin narratives like Zcash. The question is dominance, not survival.",
+      "key_facts": ["BTC was down more than 40% from its early October 2025 peak.", "Spot Bitcoin ETFs saw $1.5B in outflows in late May.", "Zcash surged strongly in the cited context, reviving the privacy-coin debate."]
+    },
+    {
+      "slug": "stablecoins-us-japan-eu-geopolitics",
+      "title": "Stablecoins become a currency power game",
+      "keywords": ["stablecoins", "digital dollar", "yen stablecoin", "monetary sovereignty", "Treasuries"],
+      "entities": ["Japan", "ECB", "USDT", "USDC", "MUFG", "SMBC", "Mizuho"],
+      "angle": "Stablecoins are the next battlefield for currency power: dollar dominance versus yen/euro relevance.",
+      "bot_response": "Stablecoins are no longer just crypto rails. Digital dollars extend dollar dominance, while yen stablecoins could help Asia’s settlement layer avoid becoming fully dollar-based.",
+      "key_facts": ["Japan wants yen stablecoins used for financial settlements across Asia.", "As of Nov. 2025, around 99% of stablecoins in circulation were dollar-denominated in cited context.", "USDT and USDC made up around 84% of total stablecoin market cap by early March 2026 in cited context."]
+    },
+    {
+      "slug": "spot-bitcoin-etf-outflows-1-42b",
+      "title": "Spot Bitcoin ETFs record $1.42B in outflows",
+      "keywords": ["ETF outflows", "IBIT", "GBTC", "risk-off", "Bitcoin demand"],
+      "entities": ["Spot Bitcoin ETFs", "IBIT", "BlackRock", "GBTC", "Grayscale", "SoSoValue"],
+      "angle": "ETF demand was a major BTC support engine; when it turns negative, price has to fight macro pressure with weaker inflows.",
+      "bot_response": "Spot BTC ETFs saw about $1.42B in weekly outflows, with IBIT reportedly leading at $966M. The issue is not BTC survival; it is weakening institutional demand during macro stress.",
+      "key_facts": ["Spot Bitcoin ETFs reportedly saw $1.42B in net outflows from May 25-May 29.", "BlackRock’s IBIT reportedly led outflows with $966M for the week.", "Grayscale’s GBTC followed with around $175M in weekly outflows."]
+    },
+    {
+      "slug": "crypto-liquidations-bitcoin-64000",
+      "title": "Crypto liquidations top $1.1B as Bitcoin falls toward $64K",
+      "keywords": ["liquidations", "deleveraging", "Bitcoin $64K", "forced selling"],
+      "entities": ["Bitcoin", "crypto liquidations", "leveraged longs"],
+      "angle": "The market moved from weak liquidity to leverage wipeout; this was forced deleveraging, not just normal selling.",
+      "bot_response": "BTC falling toward $64K with $1.1B+ liquidations means forced deleveraging. When longs are liquidated, forced selling can create a cascade.",
+      "key_facts": ["Bitcoin reportedly fell toward the $63K-$64K zone.", "Crypto liquidations topped $1.1B according to the Yahoo headline context.", "The cascade mechanic: BTC falls -> leveraged longs liquidate -> forced selling -> BTC falls more."]
+    },
+    {
+      "slug": "oil-higher-bitcoin-lowest-since-march",
+      "title": "As oil moves higher, Bitcoin sinks to lowest price since March",
+      "keywords": ["oil", "yields", "lowest since March", "Middle East risk", "macro-sensitive BTC"],
+      "entities": ["Bitcoin", "Ethereum", "Solana", "Brent crude", "U.S. 10Y", "Decrypt"],
+      "angle": "Bitcoin is acting like a macro-sensitive risk asset; oil and yields are driving the tape.",
+      "bot_response": "BTC hit around $65.6K as Brent neared $96 and the U.S. 10Y hovered near 4.5%. The hidden BTC chart was oil, not just BTC candles.",
+      "key_facts": ["BTC dropped 2.4% midday to around $65,699 after falling as low as $65,590.", "Brent crude hit a 12-day high near $96/barrel.", "U.S. 10-year Treasury yield moved near 4.5%."]
+    },
+    {
+      "slug": "hyperliquid-defi-infrastructure",
+      "title": "Hyperliquid and DeFi as financial services infrastructure",
+      "keywords": ["DeFi", "on-chain derivatives", "perps", "market infrastructure", "exchange rails"],
+      "entities": ["Hyperliquid", "Grayscale", "DeFi"],
+      "angle": "Crypto infrastructure can strengthen even during weak token price action.",
+      "bot_response": "Hyperliquid is not just another token story. The thesis is that derivatives, exchange rails, and settlement can move on-chain.",
+      "key_facts": ["Grayscale framed Hyperliquid as a potential financial services juggernaut.", "The thesis is on-chain derivatives, exchange rails, settlement, liquidity, and financial infrastructure.", "This contrasted weak crypto prices with still-evolving DeFi rails."]
+    }
+  ],
+  "market_briefs": [
+    {"name": "Crypto vs U.S. equities divergence", "summary": "BTC and ETH can weaken or lag while U.S. equities and tech stay stronger. The read: risk appetite may exist, but crypto is not always receiving the same capital flow.", "keywords": ["risk appetite", "stocks strong", "crypto lagging", "capital rotation"]},
+    {"name": "Oil as hidden BTC chart", "summary": "Oil and yields can become a recurring macro link for BTC. When Brent approaches the $95-$100 zone and the U.S. 10Y is near 4.5%, Bitcoin can face pressure.", "keywords": ["Brent", "U.S. 10Y", "inflation", "Fed cuts", "liquidity"]},
+    {"name": "Weak BTC demand stack", "summary": "ETF outflows, macro pressure, weak liquidity, and leverage liquidations can stack together. The story can shift from weak momentum to forced deleveraging.", "keywords": ["ETF outflows", "deleveraging", "liquidations", "weak liquidity"]},
+    {"name": "Infrastructure grows while prices fall", "summary": "Crypto can look weak on price while infrastructure improves. Watch regulated perps, stablecoin rules, tokenized assets, and DeFi rails even when BTC or ETH are soft.", "keywords": ["market structure", "stablecoins", "CFTC", "tokenization", "DeFi"]}
+  ]
+}
